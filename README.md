@@ -16,13 +16,27 @@ Sistema de inscrição para o programa Trilhas Inova (SECTI + FAPEMA) com valida
 
 ## 🖥️ Preview
 <!-- Adicione screenshots aqui -->
+### Preview no computador ou nootbook
+- Login
 ![Preview do Login no Desktop](img/login-preview.png)
 
+- Cadastro
+![Preview do Formulário no Desktop](img/form-preview-two.png)
+
+- Cadastro
 ![Preview do Formulário no Desktop](img/form-preview.png)
 
-![Preview do Login no Mobile](img/login-responsive-preview.png)
 
-![Preview do Formulário no Mobile](form-responsive-preview.png)
+
+### Preview no mobile
+
+<div align="center">
+  
+| Login | Formulário| Formulário|
+|-------|-----------|-----------| 
+| ![Preview Login Mobile](img/login-responsive-preview.png) | ![Preview Formulário Mobile](img/form-responsive-preview-two.png) |  ![Preview Formulário Mobile](img/form-responsive-preview.png) |
+
+</div>
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**: Estrutura semântica
