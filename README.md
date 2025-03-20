@@ -46,7 +46,7 @@ Sistema de inscrição para o programa Trilhas Inova (SECTI + FAPEMA) com valida
 - **Git/GitHub**: Versionamento e hospedagem
 
 ## 📚 Documentação Completa
-[![PDF](https://img.shields.io/badge/PDF-Documentação_Técnica-red?style=flat&logo=adobe-acrobat-reader)](documentacao.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Documentação_Técnica-red?style=flat&logo=adobe-acrobat-reader)](video_documentacao_pdf/documentacao.pdf)
 
 Explore nosso manual detalhado com:
 - ✅ Lista de requisitos funcionais
