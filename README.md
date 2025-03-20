@@ -52,7 +52,7 @@ Formulário
 
 ## 📚 Documentação Completa
 [![PDF](https://img.shields.io/badge/PDF-Documentação_Técnica-red?style=flat&logo=adobe-acrobat-reader)](video_documentacao_pdf/documentacao.pdf)
-[![Video Demo](https://img.shields.io/badge/Video-Explicação_do_Sistema-blue?style=flat&logo=youtube)](https://drive.google.com/file/d/1oCgvfmEMsvBbjGv5Pi8KqYxsR8MRw7ht/view?usp=sharing)
+[![Video Demo](https://img.shields.io/badge/Video-Explicação_do_Sistema-blue?style=flat&logo=youtube)](https://youtu.be/bimXOrLCL7w)
 [![PDF Apresentação](https://img.shields.io/badge/PDF-Slides_de_Apresentação-00C853?style=flat&logo=adobe-acrobat-reader)](video_documentacao_pdf/slide_pdf.pdf)
 
 
