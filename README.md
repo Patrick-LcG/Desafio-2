@@ -16,22 +16,27 @@ Sistema de inscrição para o programa Trilhas Inova (SECTI + FAPEMA) com valida
 
 ## 🖥️ Preview
 <!-- Adicione screenshots aqui -->
-### Preview no computador ou nootbook
-- Login
+<div align="center">
+
+  ### Preview no computador ou notebook
+Página de Login
+
 ![Preview do Login no Desktop](img/login-preview.png)
 
-- Cadastro
+Formulário
+
 ![Preview do Formulário no Desktop](img/form-preview-two.png)
 
-- Cadastro
+Formulário
+
 ![Preview do Formulário no Desktop](img/form-preview.png)
 
-
-
-### Preview no mobile
+</div>
 
 <div align="center">
-  
+
+  ### Preview no mobile
+    
 | Login | Formulário| Formulário|
 |-------|-----------|-----------| 
 | ![Preview Login Mobile](img/login-responsive-preview.png) | ![Preview Formulário Mobile](img/form-responsive-preview-two.png) |  ![Preview Formulário Mobile](img/form-responsive-preview.png) |
@@ -51,7 +56,7 @@ Sistema de inscrição para o programa Trilhas Inova (SECTI + FAPEMA) com valida
 [![PDF Apresentação](https://img.shields.io/badge/PDF-Slides_de_Apresentação-00C853?style=flat&logo=adobe-acrobat-reader)](video_documentacao_pdf/slide_pdf.pdf)
 
 
-Explore nosso manual detalhado com:
+Na documentação, será possível encontrar as seguintes informações:
 - ✅ Lista de requisitos funcionais
 - 🚧 Roadmap de desenvolvimento
 - 🔍 Metodologias de validação
